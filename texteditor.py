@@ -1,5 +1,3 @@
-# -*- coding: shift_jis -*-
-
 import tkinter as tk
 from tkinter import filedialog, messagebox
 
